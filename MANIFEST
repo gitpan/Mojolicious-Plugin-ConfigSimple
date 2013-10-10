@@ -1,0 +1,10 @@
+cpanfile
+cpanfile.snapshot
+lib/Mojolicious/Plugin/ConfigSimple.pm
+Makefile.PL
+MANIFEST
+set_env.sh
+t/basic.t
+t/conf.d/config.ini
+META.yml                                 Module YAML meta-data (added by MakeMaker)
+META.json                                Module JSON meta-data (added by MakeMaker)
