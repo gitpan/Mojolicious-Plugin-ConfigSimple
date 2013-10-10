@@ -2,7 +2,7 @@ package Mojolicious::Plugin::ConfigSimple;
 use Mojo::Base 'Mojolicious::Plugin';
 use Config::Simple::Extended;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 sub register {
   my ($self, $app, $args) = @_;
@@ -49,7 +49,7 @@ Mojolicious::Plugin::ConfigSimple - Config::Simple::Extended
 
 =head1 VERSION 
 
-Version 0.01
+Version 0.02
 
 my $version = &Mojolicious::Plugin::ConfigSimple::version;
 will return the currently installed version numbers for the 

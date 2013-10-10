@@ -21,4 +21,4 @@ no_index:
 requires:
   Config::Simple::Extended: 0.15
   Mojolicious: 4.45
-version: 0.01
+version: 0.02
